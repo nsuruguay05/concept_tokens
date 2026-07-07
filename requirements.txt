@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+datasets
+google-genai
+pandas
+torch
+tqdm
+transformers
